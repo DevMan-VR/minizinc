@@ -16,11 +16,11 @@ MKP5:
     tiempo: 
     optimo: 3s 914ms
 MKP6: 
-    tiempo:
-    optimo:
+    tiempo: 6m 3s
+    optimo: 10618
 MKP7: 
     tiempo: 22hr 43min 15s 319ms
-    optimo:
+    optimo: 16537
 
 
 --------------------------------------------------
