@@ -13,7 +13,7 @@ solve maximize z;
 constraint 
 forall(k in 1..numMochilas)(
   forall(j in 1..numVariables)(
-    sum(l in 1..numVariables)(weight[k,j] * x[j]) <= capacities[k]
+    sum(j in 1..numVariables)(weight[k,j] * x[j]) <= capacities[k]
   )
   
 );

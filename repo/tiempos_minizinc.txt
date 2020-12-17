@@ -1,0 +1,51 @@
+Minizinc resultados
+
+MKP1: 
+    tiempo: 118ms
+    optimo: 3800
+MKP2: 
+    tiempo: 151ms
+    optimo: 8706.1
+MKP3: 
+    tiempo: 156ms
+    optimo: 4015
+MKP4: 
+    tiempo: 224ms
+    optimo: 6120
+MKP5: 
+    tiempo: 
+    optimo: 3s 914ms
+MKP6: 
+    tiempo:
+    optimo:
+MKP7: 
+    tiempo: 22hr 43min 15s 319ms
+    optimo:
+
+
+--------------------------------------------------
+
+KP1: 
+    tiempo: 116ms
+    optimo: 26
+KP2: 
+    tiempo: 136ms
+    optimo: 198
+KP3: 
+    tiempo: 164ms
+    optimo: 55
+KP4: 
+    tiempo: 120ms
+    optimo: 172
+KP5: 
+    tiempo: 143
+    optimo: 104
+KP6: 
+    tiempo: 112ms
+    optimo: 309
+KP7: 
+    tiempo: 168ms
+    optimo: 916
+KP8: 
+    tiempo: 1s 153ms
+    optimo: 13549094

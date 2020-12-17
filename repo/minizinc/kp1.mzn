@@ -5,7 +5,7 @@ array[1..numVaribles] of int: profit;
 array[1..numVaribles] of int: weight;
 int: capacity;
 int: numVaribles;
-int: nMochilas
+int: nMochilas;
 
 var int : z = sum ( [x[j] * profit[j] | j in 1..numVaribles] );
 solve maximize z;
@@ -16,6 +16,7 @@ forall(j in 1..numVaribles)(
 );
 
 numVaribles = 5;
+nMochilas = numVaribles;
 capacity = 51;
 weight = array1d (1..numVaribles,[24, 13, 23, 15, 16]);
 profit = array1d (1..numVaribles,[12, 7, 11, 8, 9]);
